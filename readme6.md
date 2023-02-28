@@ -1,1 +1,2 @@
 inicial
+linea 2
